@@ -13,6 +13,9 @@ header:
   tagline: Сообщество студентов и выпускников МГУ
   background_img: images/main.png
 
+  has_nav: false
+  has_social: false
+
 footer:
   content: '&copy; MSU Hub'
 
