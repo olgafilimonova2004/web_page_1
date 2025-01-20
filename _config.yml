@@ -1,7 +1,7 @@
 title: MSU Hub
 
-baseurl: /aiinir
-permalink: '/:title/'
+baseurl: /
+permalink: '/aiinir/'
 collections:
   posts:
     permalink: '/posts/:title/'
