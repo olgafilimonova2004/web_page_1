@@ -1,0 +1,34 @@
+title: MSU Hub
+
+baseurl: /
+permalink: '/:title/'
+collections:
+  posts:
+    permalink: '/posts/:title/'
+
+description: Сообщество студентов и выпускников МГУ
+
+header:
+  title: MSU Hub
+  tagline: Сообщество студентов и выпускников МГУ
+  background_img: images/main.png
+
+footer:
+  content: '&copy; MSU Hub'
+
+palette: orange
+
+sass:
+  indentWidth: 4
+  style: nested
+  precision: 10
+
+plugins:
+  - jekyll-menus
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - readme.md
+  - netlify.toml
