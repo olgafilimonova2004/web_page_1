@@ -1,6 +1,6 @@
 title: MSU Hub
 
-baseurl: /
+baseurl: /aiinir
 permalink: '/:title/'
 collections:
   posts:
@@ -9,7 +9,7 @@ collections:
 description: Сообщество студентов и выпускников МГУ
 
 header:
-  title: [MSU Hub](https://msut.me)
+  title: MSU Hub
   tagline: Сообщество студентов и выпускников МГУ
   background_img: images/main.png
 
