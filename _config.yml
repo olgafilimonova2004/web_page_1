@@ -1,7 +1,7 @@
 title: MSU Hub
 
 baseurl: /
-permalink: 'https://msut.me'
+permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
