@@ -1,6 +1,6 @@
 title: MSU Hub
 
-baseurl: /
+baseurl: "https://msut.me"
 permalink: '/:title/'
 collections:
   posts:
