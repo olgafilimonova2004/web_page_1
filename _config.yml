@@ -9,7 +9,7 @@ collections:
 description: Сообщество студентов и выпускников МГУ
 
 header:
-  title: MSU Hub
+  title: [MSU Hub](https://msut.me)
   tagline: Сообщество студентов и выпускников МГУ
   background_img: images/main.png
 
